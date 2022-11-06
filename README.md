@@ -1,2 +1,4 @@
-# classification-model-detecting-waste
-Managed the construction of a dataset from scratch to build an end-to-end solution for a classification model for detecting waste materials using Deep Learning and Image Processing.
+# Classification model for detecting waste
+### Spring 2020, Universidad de Piura (UDEP) - Deep Learning course
+
+This repo contains an inference stage by developing a functional interface using Python, Starlette, and JS using a classification model for detecting waste materials using Deep Learning and Image Processing, applying a dataset built from scratch. 
